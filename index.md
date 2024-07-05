@@ -6,9 +6,11 @@ layout: page
 
 <img src="https://xuanzhangjerry.github.io/images/personal.jpg" class="floatpic" width="360" height="480">
 
-Here is **章轩**.
+大家好，我是**章轩**。
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *zx17756682187[at]163[dot]com*
+目前就读于**西南财经大学经济学院**，攻读西方经济学硕士学位。目前我的研究兴趣集中在劳动经济学、健康经济学、因果推断等领域。
+
+如果你对我研究的领域感兴趣，欢迎与我联系，我非常乐意进行合作与分享。我的邮箱是*zx17756682187@163.com*。
 
 ## Academic Background
 
