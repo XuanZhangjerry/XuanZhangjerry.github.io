@@ -25,3 +25,9 @@ layout: page
 - Labor Economic
 - Health Economic
 
+## Awards
+
+- 2020-2021学年，国家奖学金
+- 2021-2022学年，国家励志奖学金
+- 2021年宁夏大学优秀共青团员
+- 2022年宁夏大学优秀共青团员
