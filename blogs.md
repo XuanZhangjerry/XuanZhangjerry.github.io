@@ -9,3 +9,5 @@ title: Blogs
 ### 2024
 
 - [土豆的贡献](https://xuanzhangjerry.github.io/blogs/土豆的贡献/土豆的贡献.pdf)
+- [introductory r](https://xuanzhangjerry.github.io/blogs/hands on programming with r/hands on programming with r.html)
+
