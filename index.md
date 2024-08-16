@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://xuanzhangjerry.github.io/my.jpg" class="floatpic" width="360" height="480">
+<img src="images/my.jpg" class="floatpic" width="360" height="480">
 
 大家好！Here is **章轩**。欢迎来到我的个人主页。
 
