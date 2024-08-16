@@ -35,3 +35,5 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - 地图制图：ArcGIS 
 - 写作：Markdown、Marp、LaTeX
 - 前端：HTML、CSS
+
+{% include_relative _includes/publications.md %}
