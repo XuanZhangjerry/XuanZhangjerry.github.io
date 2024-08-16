@@ -42,4 +42,3 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - 数据分析：Stata > Python = R （学习中）
 - 写作：Markdown、Marp、LaTeX
 - 前端（学习中）：HTML、CSS
-- 最好是
