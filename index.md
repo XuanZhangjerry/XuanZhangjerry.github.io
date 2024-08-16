@@ -21,3 +21,17 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 - 劳动经济与应用微观
 - 因果推断
+
+<h4 style="margin:0 10px 0;">获奖情况</h4>
+
+<ul style="margin:0 10px 0px;">
+  <li style="margin:0 0 5px; margin-left: -10px"><strong style="color:#e74d3c; font-size: 0.8rem;">奖学金&ensp;</strong><strong>[2021 - 2024年] </strong> 一等学业奖学金 3 次 </li>  
+  <li style="margin:0 0 5px; margin-left: -10px"><strong style="color:#e74d3c; font-size: 0.8rem;">奖学金&ensp;</strong><strong>[2017 - 2021&nbsp;年] </strong> 一等学业奖学金 8 次、国家励志奖学金 2 次 </li>  
+</ul>
+
+<h4 style="margin:0 10px 0;">技能偏好</h4>
+
+- 数据分析：Stata > Python = R
+- 地图制图：ArcGIS 
+- 写作：Markdown、Marp、LaTeX
+- 前端：HTML、CSS
