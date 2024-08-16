@@ -18,12 +18,12 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ---
 
-## Research Interests
+### 研究兴趣
 
 - 劳动经济与应用微观
 - 因果推断
 
-## 获奖情况
+### 获奖情况
 
 - **2020 - 2021学年** 国家奖学金、校级一等奖学金
 - **2021 - 2022学年** 国家励志奖学金、校级一等奖学金
@@ -31,13 +31,13 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **2023 - 2024学年** 校级一等奖学金
 
 
-## 荣誉称号
+### 荣誉称号
 - **2020 - 2021学年** 校级优秀共青团员
 - **2021 - 2022学年** 校级优秀共青团员
 
 
 
-## 技能偏好
+### 技能偏好
 
 - 数据分析：Stata > Python = R （学习中）
 - 写作：Markdown、Marp、LaTeX
