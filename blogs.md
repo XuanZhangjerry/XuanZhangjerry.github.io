@@ -9,3 +9,7 @@ title: Blogs
 ### 2024
 
 - [出口冲击与犯罪率](https://xuanzhangjerry.github.io/blogs/slide.pdf)
+
+
+## 个人学习分享
+- [交互项的秘密](https://xuanzhangjerry.github.io/blogs/interact_term.pdf)
