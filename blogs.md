@@ -12,4 +12,4 @@ title: Blogs
 
 
 ## 个人学习分享
-- [交互项的秘密](https://xuanzhangjerry.github.io/blogs/interact_term.pdf)
+- [交互项的秘密](https://xuanzhangjerry.github.io/blogs/交互项.html)
